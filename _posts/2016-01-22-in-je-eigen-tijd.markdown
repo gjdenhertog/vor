@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Wanneer het jou uit komt<br>by PSDCovers
 description: |
 ---
   Turn your 2D designs into high quality, 3D
