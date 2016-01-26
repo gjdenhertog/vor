@@ -1,10 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: gemak.jpg
 category: Services
 title: "Gemak op de eerste plaats<br>"
 description: "\n"
 published: true
 ---
 
-De app is ontworpen om zo gemakkelijk mogelijk te zijn in gebruik. Omdat je moet werken met een afstandsbediening en niet met een toetsenbord, kan je met een simpele druk op de knop navigeren naar de content die jij wilt! 
+
+De app is ontworpen om zo gemakkelijk mogelijk te zijn in gebruik. Omdat je moet werken met een afstandsbediening en niet met een toetsenbord, kan je met een simpele druk op de knop navigeren naar de content die jij wilt!
