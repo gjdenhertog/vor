@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: Wanneer het jou uit komt<br>by PSDCovers
-description: |
+title: "Wanneer het jou uit komt<br>"
+description: "\n"
+published: true
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+
+Vergeet je altijd om acht uur het journaal te kijken? Of wil je altijd het nieuws kijken, net op het moment dat het niet op is? In Vör staat altijd het laatste nieuws voor je klaar. Zodra de laatste nieuwsuitzending is afgelopen, staat het al op je te wachten in de app. 
