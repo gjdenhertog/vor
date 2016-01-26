@@ -1,6 +1,6 @@
 ---
 layout: default
-img: platforms.png
+img: platforms.jpg
 category: Services
 title: Op alle platformen
 description: "\n"
