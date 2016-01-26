@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Alle platformen
+title: Op alle platformen
 description: "\n"
 published: true
 ---
