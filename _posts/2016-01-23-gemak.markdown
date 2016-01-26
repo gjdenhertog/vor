@@ -2,7 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: Gemak op de eerste plaats<br>Special Thanks
-description: |
+title: "Gemak op de eerste plaats<br>"
+description: "\n"
+published: true
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+De app is ontworpen om zo gemakkelijk mogelijk te zijn in gebruik. Omdat je moet werken met een afstandsbediening en niet met een toetsenbord, kan je met een simpele druk op de knop navigeren naar de content die jij wilt! 
